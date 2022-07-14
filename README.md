@@ -1,6 +1,6 @@
-## Nest-filestorage
+# Nest-filestorage
 
-# Env variables
+## Env variables
 Create .env in the root directory and set following field: MONGO_URL=yourMongoDbUrl  
 
 # Description
